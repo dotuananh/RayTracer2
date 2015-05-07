@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sam",
+				"samplesNumber"
+			],
+			[
+				"pixe",
+				"pixelSize"
+			],
+			[
+				"sampl",
+				"samplesPoint"
+			],
+			[
+				"sample",
+				"samplesNumber"
+			],
+			[
+				"ex",
+				"exposureTime"
+			],
+			[
+				"roll",
+				"rollAngle"
+			],
+			[
+				"ro",
+				"rollAngle"
+			],
+			[
+				"lookA",
+				"lookAt"
+			],
+			[
+				"look",
+				"lookAt"
+			],
+			[
+				"dar",
+				"darkGreen"
+			],
+			[
+				"light",
+				"lightPurple"
+			],
+			[
+				"ligh",
+				"lightGreen"
+			],
+			[
+				"sphe",
+				"spherePtr01"
+			],
+			[
+				"trace",
+				"tracerPtr"
+			],
+			[
+				"plane",
+				"planePtr"
+			],
+			[
+				"plan",
+				"planePtr"
+			],
+			[
+				"a",
+				"addObject"
+			],
+			[
+				"sph",
+				"spherePtr"
+			],
+			[
+				"tra",
+				"tracerPtr"
+			],
+			[
+				"wor",
+				"worldPtr"
+			],
+			[
+				"w",
+				"worldPtr"
+			],
+			[
+				"Mil",
+				"MultipleObjectsTracer"
+			],
+			[
+				"Muil",
+				"MultipleObjectsTracer"
+			],
+			[
+				"Mult",
+				"MultipleObjectsTracer"
+			],
+			[
+				"hit",
+				"hitColor"
+			],
+			[
+				"_",
+				"_shadeRec"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"img",
+				"imgWidth"
+			],
+			[
+				"Sing",
+				"SingleSphereTracer"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"view",
+				"viewPlane"
+			],
+			[
+				"displ",
+				"displayPixel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RayTracer2/main.cpp",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/World/World.cpp",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/Cameras/Pinhole.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/notes.txt",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/World/World.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Scene/RGBColor.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Scene/RGBColor.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Cameras/Pinhole.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/main.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Scene/World.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Cameras/Pinhole.cpp",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/Utilities/RGBColor.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Scene/World.h",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/Utilities/RGBColor.cpp",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/Cameras/Pinhole.h",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/Cameras/Camera.cpp",
+		"/C/Users/anhtuando/Downloads/__RayTracing/wxraytracer/wxRaytracer/raytracer/Cameras/Camera.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Cameras/PinHole.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Cameras/Camera.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Cameras/Camera.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/MultipleObjectsTracer.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Objects/Plane.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/MultipleObjectsTracer.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/ShadeRec.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/ShadeRec.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/SingleSphereTracer.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/SingleSphereTracer.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Objects/Plane.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/MathLib/Normal.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Tracers/Tracer.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Utilities/ShadeRec.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Utilities/ShadeRec.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Tracers/SingleSphere.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Tracers/MultipleObjects.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Tracers/MultipleObjects.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/build/BuildMultipleObjects.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/GeometricObjects/Plane.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/GeometricObjects/Plane.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Tracers/Tracer.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/World/World.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/World/World.h",
+		"/C/Users/anhtuando/Downloads/__RayTracing/Chapter03/Build Functions 03/BuildCh03PageOneImage.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/test.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Objects/Sphere.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Objects/Sphere.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/World/ViewPlane.cpp",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/World/ViewPlane.h",
+		"/C/Users/anhtuando/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Scene/ViewPlane.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Scene/ViewPlane.h",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/build/BuildSingleSphere.cpp",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/Tracer.h",
+		"/C/Home/Projects/GitHub/RayTracer/RayTracer/Engine/Tracer.cpp",
+		"/C/Users/anhtuando/AppData/Roaming/Sublime Text 2/Packages/User/C++.sublime-settings",
+		"/C/Users/anhtuando/Downloads/wxraytracer/wxRaytracer/raytracer/Tracers/SingleSphere.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tracerPtr",
+			"hitBareBoneObjects",
+			"tracerPtr",
+			"imgWidth",
+			"currentPos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RayTracer2/main.cpp",
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": false
+}
