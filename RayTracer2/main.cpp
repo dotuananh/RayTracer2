@@ -8,6 +8,12 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
+#include "Vect.h"
+#include "Ray.h"
+#include "Camera.h"
+#include "Color.h"
+#include "Light.h"
 using namespace std;
 
 //------------------------------------------------------------------------------
@@ -103,6 +109,29 @@ int main(int argc, char* argv) {
   int currentIndex;
 
   RGBType* pixels = new RGBType[n];
+
+  Vect X(1, 0, 0);
+  Vect Y(0, 1, 0);
+  Vect Z(0, 0, 1);
+
+  Vect campos(3, 1.5, -4);
+  Vect lookAt(0, 0, 0);
+  Vect diffBtw(
+   campos.getVectX() - lookAt.getVectX(),
+   campos.getVectY() - lookAt.getVectY(),
+   campos.getVectZ() - lookAt.getVectZ());
+  Vect camdir = diffBtw.negative().normalize();
+  Vect camright = Y.crossProduct(camdir).normalize();
+  Vect camdown = camright.crossProduct(camdir);
+  Camera sceneCam (campos, camdir, camright, camdown);
+
+  Color whiteLight(1.0, 1.0, 1.0, 0.0);
+  Color prettyGreen(0.5, 1.0, 0.5, 0.3); // special value for reflectivity and shininess
+  Color gray(0.5, 0.5, 0.5, 0);
+  Color black(0.0, 0.0, 0.0, 0.0);
+
+  Vect lightPosition(-7, 10, -10);
+  Light sceneLight(lightPosition, whiteLight);
 
   // Loop through each pixel and compute the color we should display
   for (int x = 0; x < width; x++) {
